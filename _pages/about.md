@@ -21,6 +21,7 @@ social: false  # includes social icons at the bottom of the page
 
 I am a senior lecturer in Statistics attached to the Department of Statistics and Computer Science University of Peradeniya. 
 
+Since completing my PhD in September 2019 at QUT, I have dedicated my research endeavors to developing innovative methods and algorithms to enhance efficiency and accuracy of simulation-based inference techniques by exploiting machine learning techniques. I am particularly interested in automating the construction of informative summary statistics essential for approximate Bayesian computation (ABC) algorithms like ABC-SMC. 
 
 ## Research Interests
 1. Approximate Bayesian Computation
